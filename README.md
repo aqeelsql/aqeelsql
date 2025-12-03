@@ -1,17 +1,15 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Banner" width="100%"/>
+  <img src="https://i.pinimg.com/originals/bd/1b/04/bd1b04ae480a107f6335219c6a561f6d.gif" 
+       alt="Banner" width="100%"/>
 </p>
+
+
+
+
 
 <h1 align="center">Hi 👋, I am Aqeel Tariq.</h1>
 <h3 align="center"> Passionate about analytics, ML and real-world problem solving | Data Science Student.</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=humayunsaghir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-
----
 
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif" />  -->
 ### 🌱 Currently Learning
