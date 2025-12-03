@@ -50,6 +50,9 @@
   <img src="https://img.shields.io/badge/n8n-EA4E7E?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
+## Top Languages
+![Top Languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=aqeelsql&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+
 
 ## 📈 GitHub Stats
 <p align="left">
